@@ -1,0 +1,38 @@
+  
+
+body {
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 2.2em;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    background-color: rgb(46, 92, 0);
+
+}
+header{
+
+    background-color: rgb(46, 92, 0);
+}
+section, footer {
+margin: 40px;
+letter-spacing: 2px;
+}
+
+
+p{
+margin: 40px;
+letter-spacing: 2px;
+}
+
+h1{ font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 4px;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
